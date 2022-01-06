@@ -1,3 +1,5 @@
 Pembelajaran tentang Git dan GitHub
 Git adalah salah satu software yang menggunakan VCS
 VCS atau Version Control System adalah sistem yang menyimpan dan mengelola rekaman perubahan dari source code
+GitHub adalah website atau layanan untuk mengelola project Git
+Repo adalah nama lain dari folder pada Git
